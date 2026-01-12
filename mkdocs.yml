@@ -1,0 +1,18 @@
+site_name: Rig in 5 Guide
+
+nav:
+
+  #- Installation: 'installation.md'
+  - Introduction: 'index.md'
+  - Import Tab: 'import_tab_page.md'
+  - Reset Tab: 'reset_tab_page.md'
+  - Clean Tab: 'clean_tab_page.md'
+  - Rigging Tab: 'rigging_tab_page.md'
+
+theme: readthedocs
+
+markdown_extensions:
+  - admonition
+
+extra_css:
+  - stylesheets/styles.css

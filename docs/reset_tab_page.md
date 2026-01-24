@@ -1,4 +1,4 @@
-# Rig In 5 (Reset Tools Tab) **[watch in Youtube](https://www.youtube.com/).**
+# Rig In 5 (Reset Tools Tab) <!--**[watch in Youtube](https://www.youtube.com/).** -->
 
 so, here we are!! now its time to talk about the **Reset Tools**, as i mentioned before<br>
 the porpuse of this features are to manage more faster our imported model to be rigged<br>

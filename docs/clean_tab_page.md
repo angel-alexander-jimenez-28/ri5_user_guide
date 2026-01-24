@@ -1,4 +1,4 @@
-# Rig in 5 (Clean Tab) **[watch in Youtube](https://www.youtube.com/).**
+# Rig in 5 (Clean Tab) <!--**[watch in Youtube](https://www.youtube.com/).** -->
 
 Oh Right!! Now its Time to talk about for me the most complex and very fun Tools
 of this addon, just for you to now this is the core where **RIG IN 5** solution was born

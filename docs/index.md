@@ -1,4 +1,4 @@
-# Rig in 5 Introduction **[watch in Youtube](https://www.youtube.com/).**
+# Rig in 5 Introduction <!--**[watch in Youtube](https://www.youtube.com/).** -->
 
 ![Ri5_Guide_Images](images/ri5_logo_off.png "Rig in 5 Logo")
 
@@ -8,7 +8,7 @@ with a simple workflow that i've found while working in **Blender** cars animati
 this guide has the porpuse to show you all necessary tips and tricks that are important to know while working with it.
 ones you get the main idea behind rig in 5 you will be able to rig any car you want 
 
-also check the --> *[Rig In 5 Tutorials](https://www.youtube.com/).* on Youtube.
+also check the --> <!-- *[Rig In 5 Tutorials](https://www.youtube.com/).* on Youtube. -->
 
 ## Concepts you need to know
 

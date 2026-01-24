@@ -1,4 +1,4 @@
-# Rig In 5 (Rigging Tab) **[watch in Youtube](https://www.youtube.com/).**
+# Rig In 5 (Rigging Tab) <!--**[watch in Youtube](https://www.youtube.com/).** -->
 
 Now it is time to get the car Rigged and this is most easy step of all
 

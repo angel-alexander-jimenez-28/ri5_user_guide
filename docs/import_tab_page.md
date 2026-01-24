@@ -1,4 +1,4 @@
-# Rig In 5 (Import Tab) **[watch in Youtube](https://www.youtube.com/).**
+# Rig In 5 (Import Tab) <!--**[watch in Youtube](https://www.youtube.com/).** -->
 
 Once you have installed the addon this is the panel you'll see by default, The **import** Tab<br>
 is active logically because this is the first step we need to do to start any car rigging process,<br>
